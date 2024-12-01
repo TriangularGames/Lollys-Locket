@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b503d10440e934c825675b0e04371f, type: 3}
+  m_Name: DRBook
+  m_EditorClassIdentifier: 
+  dialogue:
+    pickUp: {fileID: 0}
+    Action: 
+    interactionOption: 0
+    hasOptions: 0
+    sentences:
+    - The Master's table was one to behold, tall was his top hat as he sat at the
+      head. He was cleancut, dressed to the nines in purples and blacks, ready to
+      enjoy a hearty meal with his family.
+    - His first lady, golden locks to his right, and his second all but worn to his
+      left. Both of them despised each other, the first obviously more favoured this
+      year, but they'd do anything for their Lord Master. Even if it meant tolerating
+      another dumb family meal.
+    - The awful son sat at the end, very underdressed, and the dapper sat beside
+      the first. The dapper one had smarts and pride up the wazoo, something the
+      awful never achieved. Never will to be frank. He wasn't smart, nor did he dress
+      well. Dapper stays dapper, awful stays awful for this meal.
+    - The maid, who was lucky to eat that evening, sat on the far side, watching
+      them eat what she worked so hard on. Her hands worn from the day spent in preperation,
+      eyes weary from the work. Watching them from afar, she felt little joy. The
+      maid alone, trapped in a home.
+    - With nothing of her own.
+    selections: []
+    OptionDialogue: []

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fb232c9969930e42a1a09de2ad8b6fa, type: 3}
+  m_Name: Dapper
+  m_EditorClassIdentifier: 
+  name: Bowtie-ton
+  icon: {fileID: 8289031049492042274, guid: 0ec67510c5417f84b9ffa5707f60d520, type: 3}
+  description:
+  - Despite being covered in dust, this skeleton still looks rather clean, in terms
+    of looks. If you can even call them looks that is. A clean black bowtie is tied
+    neatly around his "neck." It's rather cute.
+  isDefaultItem: 0
+  diningRoom: {fileID: 0}

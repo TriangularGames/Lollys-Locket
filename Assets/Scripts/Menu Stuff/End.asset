@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3bc12c716af6d54383c55456fc79012, type: 3}
+  m_Name: End
+  m_EditorClassIdentifier: 
+  story: 'And with the door slamming behind her, narrowly making her escape. Lolly
+    was freed, with locket in tow.
+
+
+    She continued to run, until the mansion
+    was barely in view. It was a sore thumb, so dark and gloomy, against the now
+    rising sun. She had no idea she''d been gone so long.
+
+
+    Gripping the locket
+    tightly and putting it around her neck, she headed home.
+
+
+    Happy that her
+    mom was still with her.'

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ItemPickup
+  - DialogueManager
+  - Chair
+  - Furniture
+  - Enemy
+  - Inventory
+  - DollPuzzle
+  - Door
+  - GameOver
+  - SecretDoor
+  - Master
+  - Dapper Son
+  - DiningRoomPuzzle
+  - Thunder
+  - Exit
+  - Locket
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Interaction
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AbovePlayer
+    uniqueID: 2492335533
+    locked: 0

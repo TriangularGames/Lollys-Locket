@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3bc12c716af6d54383c55456fc79012, type: 3}
+  m_Name: Story
+  m_EditorClassIdentifier: 
+  story: 'Lolly is a young girl, with a lot of spunk. She is loved by her family,
+    well taken care of, and strong at heart.
+
+
+    Her mother died when she was very
+    young, and one thing that always brought her joy in times of hardship was her
+    mothers locket. It is gold, beautiful, shiny, and the most well kept thing that
+    she owns.
+
+
+    In recent days, it has gone missing.
+
+
+    She discovered through
+    some rumors, that a vampire in the hills known only to others as Master Alistar,
+    might''ve been stealing recently.
+
+
+    Despite her worries, and the rumors of
+    his supposed killings, she knew that her mother''s locket needed to be saved.
+
+
+    So
+    off she went.'

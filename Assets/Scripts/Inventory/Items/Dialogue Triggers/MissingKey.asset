@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b503d10440e934c825675b0e04371f, type: 3}
+  m_Name: MissingKey
+  m_EditorClassIdentifier: 
+  dialogue:
+    pickUp: {fileID: 0}
+    Action: 
+    interactionOption: 0
+    hasOptions: 0
+    sentences:
+    - A large ornate wooden door stands in the middle of the guady upper hallway.
+      The worn gold trim is dirty, and the brass door knobs look untouched.
+    - You notice a keyhole, and attempting to twist the knobs leads you no where.
+      There must be a key to here somewhere in this house.
+    selections: []
+    OptionDialogue: []
+    noItem: []

@@ -1,0 +1,3482 @@
+fileFormatVersion: 2
+guid: 8f8d1900700d4974597e2f8c07e1a73b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1952837549951892510
+    second: Ground_Tilest_0
+  - first:
+      213: 8930289886352543082
+    second: Ground_Tilest_1
+  - first:
+      213: -437035570845161844
+    second: Ground_Tilest_2
+  - first:
+      213: -6991776869837566420
+    second: Ground_Tilest_3
+  - first:
+      213: -2624203134312967227
+    second: Ground_Tilest_4
+  - first:
+      213: -5946416747333037157
+    second: Ground_Tilest_5
+  - first:
+      213: -8645708506390987203
+    second: Ground_Tilest_6
+  - first:
+      213: -6077082605508332110
+    second: Ground_Tilest_7
+  - first:
+      213: 2226959256111443870
+    second: Ground_Tilest_8
+  - first:
+      213: 6173641723784524460
+    second: Ground_Tilest_9
+  - first:
+      213: 1802511378153270608
+    second: Ground_Tilest_10
+  - first:
+      213: 8631681699800739773
+    second: Ground_Tilest_11
+  - first:
+      213: -934798327689235391
+    second: Ground_Tilest_12
+  - first:
+      213: 668824307147205442
+    second: Ground_Tilest_13
+  - first:
+      213: -5432572088719610346
+    second: Ground_Tilest_14
+  - first:
+      213: -3385112984740933635
+    second: Ground_Tilest_15
+  - first:
+      213: -3827239655114138954
+    second: Ground_Tilest_16
+  - first:
+      213: 577923716146948538
+    second: Ground_Tilest_17
+  - first:
+      213: 7000695892830954985
+    second: Ground_Tilest_18
+  - first:
+      213: 1301317940306226466
+    second: Ground_Tilest_19
+  - first:
+      213: -4439173550537937805
+    second: Ground_Tilest_20
+  - first:
+      213: 280117724317242828
+    second: Ground_Tilest_21
+  - first:
+      213: -8613420362720495499
+    second: Ground_Tilest_22
+  - first:
+      213: -4504675136848332045
+    second: Ground_Tilest_23
+  - first:
+      213: 7821737111118106458
+    second: Ground_Tilest_24
+  - first:
+      213: -6013993055258432007
+    second: Ground_Tilest_25
+  - first:
+      213: -4497111217760325381
+    second: Ground_Tilest_26
+  - first:
+      213: -1869611848397152883
+    second: Ground_Tilest_27
+  - first:
+      213: -841007353907311508
+    second: Ground_Tilest_28
+  - first:
+      213: 8861514999155966342
+    second: Ground_Tilest_29
+  - first:
+      213: -2130103371852679428
+    second: Ground_Tilest_30
+  - first:
+      213: 4253285178621119014
+    second: Ground_Tilest_31
+  - first:
+      213: 7802576629129449506
+    second: Ground_Tilest_32
+  - first:
+      213: 5871601656296976913
+    second: Ground_Tilest_33
+  - first:
+      213: 8583599326114859198
+    second: Ground_Tilest_34
+  - first:
+      213: 7787976603803996119
+    second: Ground_Tilest_35
+  - first:
+      213: 5396384427419627875
+    second: Ground_Tilest_36
+  - first:
+      213: -2313808646458790805
+    second: Ground_Tilest_37
+  - first:
+      213: -857896942095095584
+    second: Ground_Tilest_38
+  - first:
+      213: -9042590866118717824
+    second: Ground_Tilest_39
+  - first:
+      213: -8594668792435417162
+    second: Ground_Tilest_40
+  - first:
+      213: -2703731345045584760
+    second: Ground_Tilest_41
+  - first:
+      213: 9045260336634110908
+    second: Ground_Tilest_42
+  - first:
+      213: -39418876691507707
+    second: Ground_Tilest_43
+  - first:
+      213: -7856498309086776834
+    second: Ground_Tilest_44
+  - first:
+      213: -6463503407872909010
+    second: Ground_Tilest_45
+  - first:
+      213: 5857752466254109424
+    second: Ground_Tilest_46
+  - first:
+      213: -4820492250228385541
+    second: Ground_Tilest_47
+  - first:
+      213: -8502225727815622437
+    second: Ground_Tilest_48
+  - first:
+      213: -788974180344562463
+    second: Ground_Tilest_49
+  - first:
+      213: -4825628105347367182
+    second: Ground_Tilest_50
+  - first:
+      213: -7580253107464202243
+    second: Ground_Tilest_51
+  - first:
+      213: 785666281810643938
+    second: Ground_Tilest_52
+  - first:
+      213: 6645358548793476168
+    second: Ground_Tilest_53
+  - first:
+      213: -3796787881611321748
+    second: Ground_Tilest_54
+  - first:
+      213: 6820557605998176265
+    second: Ground_Tilest_55
+  - first:
+      213: 3808741340491606618
+    second: Ground_Tilest_56
+  - first:
+      213: 4422858167497705197
+    second: Ground_Tilest_57
+  - first:
+      213: 4549319716538233353
+    second: Ground_Tilest_58
+  - first:
+      213: 1666254840638555658
+    second: Ground_Tilest_59
+  - first:
+      213: 1418709262903931137
+    second: Ground_Tilest_60
+  - first:
+      213: 215562405793655808
+    second: Ground_Tilest_61
+  - first:
+      213: -2300535131187540048
+    second: Ground_Tilest_62
+  - first:
+      213: -8781358146970354034
+    second: Ground_Tilest_63
+  - first:
+      213: -4827768956731968679
+    second: Ground_Tilest_64
+  - first:
+      213: -4157259438443406432
+    second: Ground_Tilest_65
+  - first:
+      213: -2876871993450958365
+    second: Ground_Tilest_66
+  - first:
+      213: -199795853752439928
+    second: Ground_Tilest_67
+  - first:
+      213: 5322255564136344711
+    second: Ground_Tilest_68
+  - first:
+      213: 6645241712891872325
+    second: Ground_Tilest_69
+  - first:
+      213: -8899044355278832425
+    second: Ground_Tilest_70
+  - first:
+      213: 3501181352385777504
+    second: Ground_Tilest_71
+  - first:
+      213: 4414825633490713435
+    second: Ground_Tilest_72
+  - first:
+      213: -3139742095006388333
+    second: Ground_Tilest_73
+  - first:
+      213: -7997592963791390329
+    second: Ground_Tilest_74
+  - first:
+      213: 3225104476885994550
+    second: Ground_Tilest_75
+  - first:
+      213: 7408814888121138220
+    second: Ground_Tilest_76
+  - first:
+      213: -865029808379136279
+    second: Ground_Tilest_77
+  - first:
+      213: 5026189945234334357
+    second: Ground_Tilest_78
+  - first:
+      213: 927664224807010520
+    second: Ground_Tilest_79
+  - first:
+      213: 6677872619531723724
+    second: Ground_Tilest_80
+  - first:
+      213: 275642866264417353
+    second: Ground_Tilest_81
+  - first:
+      213: -4226116305266150474
+    second: Ground_Tilest_82
+  - first:
+      213: -7962729833268972796
+    second: Ground_Tilest_83
+  - first:
+      213: -6376868938623135142
+    second: Ground_Tilest_84
+  - first:
+      213: -3398425358359375671
+    second: Ground_Tilest_85
+  - first:
+      213: -3969204747924536466
+    second: Ground_Tilest_86
+  - first:
+      213: 7749895473134535145
+    second: Ground_Tilest_87
+  - first:
+      213: -5969575149246092931
+    second: Ground_Tilest_88
+  - first:
+      213: 4187699490081080548
+    second: Ground_Tilest_89
+  - first:
+      213: 2811132201005691245
+    second: Ground_Tilest_90
+  - first:
+      213: -491300186814665196
+    second: Ground_Tilest_91
+  - first:
+      213: 2321983857504139999
+    second: Ground_Tilest_92
+  - first:
+      213: 5774361369853056223
+    second: Ground_Tilest_93
+  - first:
+      213: -5790041309063243974
+    second: Ground_Tilest_94
+  - first:
+      213: -3571634641583611634
+    second: Ground_Tilest_95
+  - first:
+      213: -631440785681748279
+    second: Ground_Tilest_96
+  - first:
+      213: -2234949186695790590
+    second: Ground_Tilest_97
+  - first:
+      213: 8412879300057250364
+    second: Ground_Tilest_98
+  - first:
+      213: 6702067359520626130
+    second: Ground_Tilest_99
+  - first:
+      213: -2842368134593631310
+    second: Ground_Tilest_100
+  - first:
+      213: 2186941608916758495
+    second: Ground_Tilest_101
+  - first:
+      213: -6451939460288130474
+    second: Ground_Tilest_102
+  - first:
+      213: 3837929228359798875
+    second: Ground_Tilest_103
+  - first:
+      213: 1885000073329404737
+    second: Ground_Tilest_104
+  - first:
+      213: -3284258736995182258
+    second: Ground_Tilest_105
+  - first:
+      213: -5789634451946498447
+    second: Ground_Tilest_106
+  - first:
+      213: 40493671716291894
+    second: Ground_Tilest_107
+  - first:
+      213: 1411339503110172829
+    second: Ground_Tilest_108
+  - first:
+      213: 7736102121114871156
+    second: Ground_Tilest_109
+  - first:
+      213: -5345002744078048791
+    second: Ground_Tilest_110
+  - first:
+      213: -4122360343580664279
+    second: Ground_Tilest_111
+  - first:
+      213: 5883605402170083233
+    second: Ground_Tilest_112
+  - first:
+      213: 102183477254627343
+    second: Ground_Tilest_113
+  - first:
+      213: -2022803046070680180
+    second: Ground_Tilest_114
+  - first:
+      213: 995492069583824104
+    second: Ground_Tilest_115
+  - first:
+      213: -691866018911992886
+    second: Ground_Tilest_116
+  - first:
+      213: 5618303099043955699
+    second: Ground_Tilest_117
+  - first:
+      213: -2167187722528867865
+    second: Ground_Tilest_118
+  - first:
+      213: -9129677124114006379
+    second: Ground_Tilest_119
+  - first:
+      213: 4450272519618378572
+    second: Ground_Tilest_120
+  - first:
+      213: -6965704970008827300
+    second: Ground_Tilest_121
+  - first:
+      213: -8520268397193946010
+    second: Ground_Tilest_122
+  - first:
+      213: -3676315481263299452
+    second: Ground_Tilest_123
+  - first:
+      213: -572199699831468775
+    second: Ground_Tilest_124
+  - first:
+      213: -7165265656495843585
+    second: Ground_Tilest_125
+  - first:
+      213: -3342541123195931216
+    second: Ground_Tilest_126
+  - first:
+      213: -4460198608243406683
+    second: Ground_Tilest_127
+  - first:
+      213: -8017589410118584888
+    second: Ground_Tilest_128
+  - first:
+      213: -7621979633749256497
+    second: Ground_Tilest_129
+  - first:
+      213: -136172255208043354
+    second: Ground_Tilest_130
+  - first:
+      213: 1000376629612395235
+    second: Ground_Tilest_131
+  - first:
+      213: 3474302731375164764
+    second: Ground_Tilest_132
+  - first:
+      213: 9168968531002395873
+    second: Ground_Tilest_133
+  - first:
+      213: 2757878480912719942
+    second: Ground_Tilest_134
+  - first:
+      213: -5537176940579527072
+    second: Ground_Tilest_135
+  - first:
+      213: 4769906439301227733
+    second: Ground_Tilest_136
+  - first:
+      213: 8378272453079299447
+    second: Ground_Tilest_137
+  - first:
+      213: 5818084947668679602
+    second: Ground_Tilest_138
+  - first:
+      213: 1920564984196319167
+    second: Ground_Tilest_139
+  - first:
+      213: -6879118830190232630
+    second: Ground_Tilest_140
+  - first:
+      213: 2896621739224297679
+    second: Ground_Tilest_141
+  - first:
+      213: -6990613468020873448
+    second: Ground_Tilest_142
+  - first:
+      213: -2302297690054060345
+    second: Ground_Tilest_143
+  - first:
+      213: -7404690276005529423
+    second: Ground_Tilest_144
+  - first:
+      213: 9159653928058134417
+    second: Ground_Tilest_145
+  - first:
+      213: 7998555897315644592
+    second: Ground_Tilest_146
+  - first:
+      213: -7798995358454353562
+    second: Ground_Tilest_147
+  - first:
+      213: -131809324898819434
+    second: Ground_Tilest_148
+  - first:
+      213: 5380103850979264456
+    second: Ground_Tilest_149
+  - first:
+      213: -877040889020655858
+    second: Ground_Tilest_150
+  - first:
+      213: 1424601907696264958
+    second: Ground_Tilest_151
+  - first:
+      213: -7711414587992631351
+    second: Ground_Tilest_152
+  - first:
+      213: 7309474142160884375
+    second: Ground_Tilest_153
+  - first:
+      213: -489725583308310005
+    second: Ground_Tilest_154
+  - first:
+      213: 3015142852284183535
+    second: Ground_Tilest_155
+  - first:
+      213: 4744444813786678173
+    second: Ground_Tilest_156
+  - first:
+      213: -4684330131044807681
+    second: Ground_Tilest_157
+  - first:
+      213: -3905621340371061219
+    second: Ground_Tilest_158
+  - first:
+      213: 1819152007266258722
+    second: Ground_Tilest_159
+  - first:
+      213: -8702083180678325232
+    second: Ground_Tilest_160
+  - first:
+      213: -6764012468909227214
+    second: Ground_Tilest_161
+  - first:
+      213: 3937923837350210866
+    second: Ground_Tilest_162
+  - first:
+      213: -8202053310862988192
+    second: Ground_Tilest_163
+  - first:
+      213: -2551484684099197466
+    second: Ground_Tilest_164
+  - first:
+      213: 5855435294064383416
+    second: Ground_Tilest_165
+  - first:
+      213: -5120470118550060636
+    second: Ground_Tilest_166
+  - first:
+      213: -7139602803012528099
+    second: Ground_Tilest_167
+  - first:
+      213: -6050326893791241694
+    second: Ground_Tilest_168
+  - first:
+      213: -6148879896448459182
+    second: Ground_Tilest_169
+  - first:
+      213: 3953544305782920996
+    second: Ground_Tilest_170
+  - first:
+      213: 3990457018331521841
+    second: Ground_Tilest_171
+  - first:
+      213: -8595997767687313991
+    second: Ground_Tilest_172
+  - first:
+      213: 6027183314973609926
+    second: Ground_Tilest_173
+  - first:
+      213: 2030033108396292923
+    second: Ground_Tilest_174
+  - first:
+      213: 8533002144547089613
+    second: Ground_Tilest_175
+  - first:
+      213: -7591869321223919310
+    second: Ground_Tilest_176
+  - first:
+      213: -8431664056390947069
+    second: Ground_Tilest_177
+  - first:
+      213: -6825088690043333037
+    second: Ground_Tilest_178
+  - first:
+      213: 4336119659566636711
+    second: Ground_Tilest_179
+  - first:
+      213: -8804131669886462800
+    second: Ground_Tilest_180
+  - first:
+      213: -771673724411101861
+    second: Ground_Tilest_181
+  - first:
+      213: -4611610347881193913
+    second: Ground_Tilest_182
+  - first:
+      213: 6936779714470354223
+    second: Ground_Tilest_183
+  - first:
+      213: -8680945593267343076
+    second: Ground_Tilest_184
+  - first:
+      213: 3577016734915387565
+    second: Ground_Tilest_185
+  - first:
+      213: -4763163630126826573
+    second: Ground_Tilest_186
+  - first:
+      213: -8870389368819016650
+    second: Ground_Tilest_187
+  - first:
+      213: 1926992823767972253
+    second: Ground_Tilest_188
+  - first:
+      213: -9009333941894380644
+    second: Ground_Tilest_189
+  - first:
+      213: 1725944208075905159
+    second: Ground_Tilest_190
+  - first:
+      213: 6873436886460903225
+    second: Ground_Tilest_191
+  - first:
+      213: -7005721572910028784
+    second: Ground_Tilest_192
+  - first:
+      213: -6557722081442023076
+    second: Ground_Tilest_193
+  - first:
+      213: -5563007823457880444
+    second: Ground_Tilest_194
+  - first:
+      213: -545914660757569533
+    second: Ground_Tilest_195
+  - first:
+      213: 553398248738217517
+    second: Ground_Tilest_196
+  - first:
+      213: -9016004885365296154
+    second: Ground_Tilest_197
+  - first:
+      213: -3880102073637754909
+    second: Ground_Tilest_198
+  - first:
+      213: 4526620898731125560
+    second: Ground_Tilest_199
+  - first:
+      213: 6663491246406335047
+    second: Ground_Tilest_200
+  - first:
+      213: -1678005350926679616
+    second: Ground_Tilest_201
+  - first:
+      213: 3583829609715984438
+    second: Ground_Tilest_202
+  - first:
+      213: -2526769117420821239
+    second: Ground_Tilest_203
+  - first:
+      213: 2601737826081601786
+    second: Ground_Tilest_204
+  - first:
+      213: 2015644625581139283
+    second: Ground_Tilest_205
+  - first:
+      213: 7742074425764154460
+    second: Ground_Tilest_206
+  - first:
+      213: 8152636237370117818
+    second: Ground_Tilest_207
+  - first:
+      213: -5785178948465572035
+    second: Ground_Tilest_208
+  - first:
+      213: -227869054913929019
+    second: Ground_Tilest_209
+  - first:
+      213: 1329124455417928127
+    second: Ground_Tilest_210
+  - first:
+      213: 6356303803110008239
+    second: Ground_Tilest_211
+  - first:
+      213: 4582683554119454423
+    second: Ground_Tilest_212
+  - first:
+      213: -4015736051048000627
+    second: Ground_Tilest_213
+  - first:
+      213: 7718562042478497151
+    second: Ground_Tilest_214
+  - first:
+      213: 2694403327524126623
+    second: Ground_Tilest_215
+  - first:
+      213: -2976236943324060832
+    second: Ground_Tilest_216
+  - first:
+      213: 3678324936532543656
+    second: Ground_Tilest_217
+  - first:
+      213: 726960986768746632
+    second: Ground_Tilest_218
+  - first:
+      213: -3944927368071836355
+    second: Ground_Tilest_219
+  - first:
+      213: 7683127595944271765
+    second: Ground_Tilest_220
+  - first:
+      213: -4355783237207146964
+    second: Ground_Tilest_221
+  - first:
+      213: -4366866524971032351
+    second: Ground_Tilest_222
+  - first:
+      213: 4861372017423296581
+    second: Ground_Tilest_223
+  - first:
+      213: 2321101040350239985
+    second: Ground_Tilest_224
+  - first:
+      213: 2670004831093691021
+    second: Ground_Tilest_225
+  - first:
+      213: -1602689511674087776
+    second: Ground_Tilest_226
+  - first:
+      213: 3118401961724986442
+    second: Ground_Tilest_227
+  - first:
+      213: -1749224118013887492
+    second: Ground_Tilest_228
+  - first:
+      213: 66832465499470650
+    second: Ground_Tilest_229
+  - first:
+      213: -8242571823223255877
+    second: Ground_Tilest_230
+  - first:
+      213: -3873993286914015848
+    second: Ground_Tilest_231
+  - first:
+      213: 7873307098515348930
+    second: Ground_Tilest_232
+  - first:
+      213: -1276148638380728057
+    second: Ground_Tilest_233
+  - first:
+      213: 6977597535719906331
+    second: Ground_Tilest_234
+  - first:
+      213: 7819540915553866963
+    second: Ground_Tilest_235
+  - first:
+      213: -5938295673260908821
+    second: Ground_Tilest_236
+  - first:
+      213: 3482103944545358815
+    second: Ground_Tilest_237
+  - first:
+      213: -2018133232587753508
+    second: Ground_Tilest_238
+  - first:
+      213: -4136198433086587013
+    second: Ground_Tilest_239
+  - first:
+      213: 4978265475554430434
+    second: Ground_Tilest_240
+  - first:
+      213: -4894743269271559262
+    second: Ground_Tilest_241
+  - first:
+      213: -7364504161506810885
+    second: Ground_Tilest_242
+  - first:
+      213: 7477164032708385051
+    second: Ground_Tilest_243
+  - first:
+      213: 5510476435556109747
+    second: Ground_Tilest_244
+  - first:
+      213: -3575279831357886907
+    second: Ground_Tilest_245
+  - first:
+      213: 2303056335411110457
+    second: Ground_Tilest_246
+  - first:
+      213: -4974250797222123145
+    second: Ground_Tilest_247
+  - first:
+      213: -7263853311446911110
+    second: Ground_Tilest_248
+  - first:
+      213: -1013844441535808498
+    second: Ground_Tilest_249
+  - first:
+      213: 3313306874808388230
+    second: Ground_Tilest_250
+  - first:
+      213: -5204579052843979170
+    second: Ground_Tilest_251
+  - first:
+      213: -7629347905674839652
+    second: Ground_Tilest_252
+  - first:
+      213: 561246240691692289
+    second: Ground_Tilest_253
+  - first:
+      213: -2216377568848216427
+    second: Ground_Tilest_254
+  - first:
+      213: -7745534967438702645
+    second: Ground_Tilest_255
+  - first:
+      213: -2583242843841048495
+    second: Ground_Tilest_256
+  - first:
+      213: -4513339951217789759
+    second: Ground_Tilest_257
+  - first:
+      213: -5214024102837111333
+    second: Ground_Tilest_258
+  - first:
+      213: -2487499132734147629
+    second: Ground_Tilest_259
+  - first:
+      213: -996797845019215876
+    second: Ground_Tilest_260
+  - first:
+      213: 1050738459643201770
+    second: Ground_Tilest_261
+  - first:
+      213: -8984850586064016156
+    second: Ground_Tilest_262
+  - first:
+      213: -7529372541227076997
+    second: Ground_Tilest_263
+  - first:
+      213: -1332017019464813290
+    second: Ground_Tilest_264
+  - first:
+      213: 7216758545078783360
+    second: Ground_Tilest_265
+  - first:
+      213: -7562195337548782983
+    second: Ground_Tilest_266
+  - first:
+      213: 2759721274701773449
+    second: Ground_Tilest_267
+  - first:
+      213: 5250395575159842898
+    second: Ground_Tilest_268
+  - first:
+      213: -3041486565840546348
+    second: Ground_Tilest_269
+  - first:
+      213: 3120301751187240196
+    second: Ground_Tilest_270
+  - first:
+      213: -6938277741499962194
+    second: Ground_Tilest_271
+  - first:
+      213: 888339709137771479
+    second: Ground_Tilest_272
+  - first:
+      213: 1489141942484700776
+    second: Ground_Tilest_273
+  - first:
+      213: -6125825741589227331
+    second: Ground_Tilest_274
+  - first:
+      213: 947526877364933240
+    second: Ground_Tilest_275
+  - first:
+      213: -2177129065788517285
+    second: Ground_Tilest_276
+  - first:
+      213: -7720181170623326743
+    second: Ground_Tilest_277
+  - first:
+      213: -6370536961704328727
+    second: Ground_Tilest_278
+  - first:
+      213: -7739313492243289415
+    second: Ground_Tilest_279
+  - first:
+      213: 9042180007886736863
+    second: Ground_Tilest_280
+  - first:
+      213: 446903864133348737
+    second: Ground_Tilest_281
+  - first:
+      213: 6892290535314430744
+    second: Ground_Tilest_282
+  - first:
+      213: 2427436883521966821
+    second: Ground_Tilest_283
+  - first:
+      213: -8148709521308416062
+    second: Ground_Tilest_284
+  - first:
+      213: 4550420373195799011
+    second: Ground_Tilest_285
+  - first:
+      213: 7725816161329923104
+    second: Ground_Tilest_286
+  - first:
+      213: 2700740657785495488
+    second: Ground_Tilest_287
+  - first:
+      213: -5021619441538041436
+    second: Ground_Tilest_288
+  - first:
+      213: -3628506307551503131
+    second: Ground_Tilest_289
+  - first:
+      213: -8083015201218672742
+    second: Ground_Tilest_290
+  - first:
+      213: 3724766025310243779
+    second: Ground_Tilest_291
+  - first:
+      213: -1499730749276198245
+    second: Ground_Tilest_292
+  - first:
+      213: -4801876001298131302
+    second: Ground_Tilest_293
+  - first:
+      213: -8138626463877458533
+    second: Ground_Tilest_294
+  - first:
+      213: -5745347808026758130
+    second: Ground_Tilest_295
+  - first:
+      213: -3323791815519432732
+    second: Ground_Tilest_296
+  - first:
+      213: 435025502618221831
+    second: Ground_Tilest_297
+  - first:
+      213: 5291821266451312302
+    second: Ground_Tilest_298
+  - first:
+      213: -3507689280486576900
+    second: Ground_Tilest_299
+  - first:
+      213: -8984964438179386362
+    second: Ground_Tilest_300
+  - first:
+      213: 4558425451709599745
+    second: Ground_Tilest_301
+  - first:
+      213: -9211956940736943934
+    second: Ground_Tilest_302
+  - first:
+      213: -100841117948605197
+    second: Ground_Tilest_303
+  - first:
+      213: 8213639875400655606
+    second: Ground_Tilest_304
+  - first:
+      213: -8166238158092347735
+    second: Ground_Tilest_305
+  - first:
+      213: -8800763990763167081
+    second: Ground_Tilest_306
+  - first:
+      213: -6693745446179405555
+    second: Ground_Tilest_307
+  - first:
+      213: -6283877814871295893
+    second: Ground_Tilest_308
+  - first:
+      213: 2319724323932812158
+    second: Ground_Tilest_309
+  - first:
+      213: -2310281830626929476
+    second: Ground_Tilest_310
+  - first:
+      213: 8293982405628554349
+    second: Ground_Tilest_311
+  - first:
+      213: 2431806928477379793
+    second: Ground_Tilest_312
+  - first:
+      213: 4134832018198335538
+    second: Ground_Tilest_313
+  - first:
+      213: -4735511506693920859
+    second: Ground_Tilest_314
+  - first:
+      213: -8243039774036469292
+    second: Ground_Tilest_315
+  - first:
+      213: -2869148676819860755
+    second: Ground_Tilest_316
+  - first:
+      213: 7679257588165301798
+    second: Ground_Tilest_317
+  - first:
+      213: 7775699611585625634
+    second: Ground_Tilest_318
+  - first:
+      213: 8174807767729420659
+    second: Ground_Tilest_319
+  - first:
+      213: 2904228106053345956
+    second: Ground_Tilest_320
+  - first:
+      213: -7590742570348185783
+    second: Ground_Tilest_321
+  - first:
+      213: 5269028236836166505
+    second: Ground_Tilest_322
+  - first:
+      213: -5082028755343988271
+    second: Ground_Tilest_323
+  - first:
+      213: -5637915179180916903
+    second: Ground_Tilest_324
+  - first:
+      213: -3438945088632661271
+    second: Ground_Tilest_325
+  - first:
+      213: -5755212206605192543
+    second: Ground_Tilest_326
+  - first:
+      213: 1956632522520762151
+    second: Ground_Tilest_327
+  - first:
+      213: -4651593405308299366
+    second: Ground_Tilest_328
+  - first:
+      213: 7687499559608191103
+    second: Ground_Tilest_329
+  - first:
+      213: -5004579935220134954
+    second: Ground_Tilest_330
+  - first:
+      213: -5838204286878048891
+    second: Ground_Tilest_331
+  - first:
+      213: -3817161262566850658
+    second: Ground_Tilest_332
+  - first:
+      213: -8607096582181206683
+    second: Ground_Tilest_333
+  - first:
+      213: 1749025306806044908
+    second: Ground_Tilest_334
+  - first:
+      213: -2434730845024288121
+    second: Ground_Tilest_335
+  - first:
+      213: -3647053523685171233
+    second: Ground_Tilest_336
+  - first:
+      213: -5852335965986476009
+    second: Ground_Tilest_337
+  - first:
+      213: 206156377073230867
+    second: Ground_Tilest_338
+  - first:
+      213: -1984258091375945898
+    second: Ground_Tilest_339
+  - first:
+      213: 5441394224842607701
+    second: Ground_Tilest_340
+  - first:
+      213: 1582426156733237042
+    second: Ground_Tilest_341
+  - first:
+      213: -4827356841332625005
+    second: Ground_Tilest_342
+  - first:
+      213: -2392768860483864448
+    second: Ground_Tilest_343
+  - first:
+      213: 6468449126039362532
+    second: Ground_Tilest_344
+  - first:
+      213: 9130884519719979338
+    second: Ground_Tilest_345
+  - first:
+      213: 1067425906985551282
+    second: Ground_Tilest_346
+  - first:
+      213: 3209228460254103058
+    second: Ground_Tilest_347
+  - first:
+      213: 7971312505391762420
+    second: Ground_Tilest_348
+  - first:
+      213: -8182032568056137098
+    second: Ground_Tilest_349
+  - first:
+      213: 3459367189073744263
+    second: Ground_Tilest_350
+  - first:
+      213: -6423462895391373235
+    second: Ground_Tilest_351
+  - first:
+      213: -5585970346490180420
+    second: Ground_Tilest_352
+  - first:
+      213: -6162892147189444101
+    second: Ground_Tilest_353
+  - first:
+      213: -1086941509438137003
+    second: Ground_Tilest_354
+  - first:
+      213: 25054892640304950
+    second: Ground_Tilest_355
+  - first:
+      213: 6828004338496286444
+    second: Ground_Tilest_356
+  - first:
+      213: -3414807002445707948
+    second: Ground_Tilest_357
+  - first:
+      213: -3257186739814704545
+    second: Ground_Tilest_358
+  - first:
+      213: 8087773145496058967
+    second: Ground_Tilest_359
+  - first:
+      213: -918898532261383359
+    second: Ground_Tilest_360
+  - first:
+      213: -5134108141273268309
+    second: Ground_Tilest_361
+  - first:
+      213: 263982414299698579
+    second: Ground_Tilest_362
+  - first:
+      213: 3177403085135652940
+    second: Ground_Tilest_363
+  - first:
+      213: 5718329241838793571
+    second: Ground_Tilest_364
+  - first:
+      213: -3920066862296570848
+    second: Ground_Tilest_365
+  - first:
+      213: 2614091993187287609
+    second: Ground_Tilest_366
+  - first:
+      213: 5821172986313155403
+    second: Ground_Tilest_367
+  - first:
+      213: 5871344751202595817
+    second: Ground_Tilest_368
+  - first:
+      213: 2303272551888686086
+    second: Ground_Tilest_369
+  - first:
+      213: -9173038338666865537
+    second: Ground_Tilest_370
+  - first:
+      213: -6289350698392470094
+    second: Ground_Tilest_371
+  - first:
+      213: 2649667035800593741
+    second: Ground_Tilest_372
+  - first:
+      213: -3677231052439335138
+    second: Ground_Tilest_373
+  - first:
+      213: -4502788093555684200
+    second: Ground_Tilest_374
+  - first:
+      213: -1856751053436565330
+    second: Ground_Tilest_375
+  - first:
+      213: -7717798187428885539
+    second: Ground_Tilest_376
+  - first:
+      213: -1515553371422436077
+    second: Ground_Tilest_377
+  - first:
+      213: 1898017224076652760
+    second: Ground_Tilest_378
+  - first:
+      213: 2583953550264612917
+    second: Ground_Tilest_379
+  - first:
+      213: -5442136538617541435
+    second: Ground_Tilest_380
+  - first:
+      213: -7156353997967616808
+    second: Ground_Tilest_381
+  - first:
+      213: -1814045729102041494
+    second: Ground_Tilest_382
+  - first:
+      213: 5845854181092030549
+    second: Ground_Tilest_383
+  - first:
+      213: -360329135262861313
+    second: Ground_Tilest_384
+  - first:
+      213: -2335341917650942764
+    second: Ground_Tilest_385
+  - first:
+      213: -2250959517326493225
+    second: Ground_Tilest_386
+  - first:
+      213: -8739550002326031691
+    second: Ground_Tilest_387
+  - first:
+      213: -8270096440176246109
+    second: Ground_Tilest_388
+  - first:
+      213: -9210269685909588003
+    second: Ground_Tilest_389
+  - first:
+      213: -1157894321170739158
+    second: Ground_Tilest_390
+  - first:
+      213: -1840801469623241015
+    second: Ground_Tilest_391
+  - first:
+      213: -8889837485243257430
+    second: Ground_Tilest_392
+  - first:
+      213: 6477665792950674190
+    second: Ground_Tilest_393
+  - first:
+      213: -1922460123338127965
+    second: Ground_Tilest_394
+  - first:
+      213: -3601580156465832147
+    second: Ground_Tilest_395
+  - first:
+      213: 6843170967703693195
+    second: Ground_Tilest_396
+  - first:
+      213: 680462208363851610
+    second: Ground_Tilest_397
+  - first:
+      213: -8015153817122500300
+    second: Ground_Tilest_398
+  - first:
+      213: 1116953658289577937
+    second: Ground_Tilest_399
+  - first:
+      213: -2001140442988241147
+    second: Ground_Tilest_400
+  - first:
+      213: -5961780353615725008
+    second: Ground_Tilest_401
+  - first:
+      213: 2821057381453986887
+    second: Ground_Tilest_402
+  - first:
+      213: 3816553549937090230
+    second: Ground_Tilest_403
+  - first:
+      213: 8037419141084704986
+    second: Ground_Tilest_404
+  - first:
+      213: 3177132535782371752
+    second: Ground_Tilest_405
+  - first:
+      213: -3846741114612838357
+    second: Ground_Tilest_406
+  - first:
+      213: 9084821160881781711
+    second: Ground_Tilest_407
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground_Tilest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3c21b489026e4e0800000000000000
+      internalID: -1952837549951892510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d8e414653ceeb70800000000000000
+      internalID: 8930289886352543082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86609db6765fe9f0800000000000000
+      internalID: -437035570845161844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e0a8c1bf738fe90800000000000000
+      internalID: -6991776869837566420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c31fc82725f49bd0800000000000000
+      internalID: -2624203134312967227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d7c849751a7da0800000000000000
+      internalID: -5946416747333037157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3efdfc9be5440880800000000000000
+      internalID: -8645708506390987203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b578fb619dd9aba0800000000000000
+      internalID: -6077082605508332110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f6acdf4afb7ee10800000000000000
+      internalID: 2226959256111443870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f4bc307e2da550800000000000000
+      internalID: 6173641723784524460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dec6e5c8ec30910800000000000000
+      internalID: 1802511378153270608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfecdaf5c4e9c770800000000000000
+      internalID: 8631681699800739773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1016
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144347dafdde603f0800000000000000
+      internalID: -934798327689235391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24be7ace924284900800000000000000
+      internalID: 668824307147205442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6a23e770ab94b0800000000000000
+      internalID: -5432572088719610346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff44fbeca9a501d0800000000000000
+      internalID: -3385112984740933635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba12aeafc9e2eac0800000000000000
+      internalID: -3827239655114138954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96630de82350800800000000000000
+      internalID: 577923716146948538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5a9b0c2d7772160800000000000000
+      internalID: 7000695892830954985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dabc3a5c53f0210800000000000000
+      internalID: 1301317940306226466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c60efec23e462c0800000000000000
+      internalID: -4439173550537937805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5583d069d23e300800000000000000
+      internalID: 280117724317242828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578bde2e0dbf67880800000000000000
+      internalID: -8613420362720495499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fafe9f64dd2c71c0800000000000000
+      internalID: -4504675136848332045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4fa216746c8c60800000000000000
+      internalID: 7821737111118106458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 952
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fda7a30e210a8ca0800000000000000
+      internalID: -6013993055258432007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0b8f59c2d0791c0800000000000000
+      internalID: -4497111217760325381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d1d64fdedcd06e0800000000000000
+      internalID: -1869611848397152883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c0dd874442454f0800000000000000
+      internalID: -841007353907311508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681cc7001fc6afa70800000000000000
+      internalID: 8861514999155966342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6fbd1e44a5072e0800000000000000
+      internalID: -2130103371852679428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a4528c554b60b30800000000000000
+      internalID: 4253285178621119014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2209608ba12584c60800000000000000
+      internalID: 7802576629129449506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123d2ae89e1c7150800000000000000
+      internalID: 5871601656296976913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8cb57fb121f1770800000000000000
+      internalID: 8583599326114859198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df4acc6573741c60800000000000000
+      internalID: 7787976603803996119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361fbc3ab0fc3ea40800000000000000
+      internalID: 5396384427419627875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca89d8b43b3efd0800000000000000
+      internalID: -2313808646458790805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e82788c6432814f0800000000000000
+      internalID: -857896942095095584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e4dc75483428280800000000000000
+      internalID: -9042590866118717824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf50c0154a99b880800000000000000
+      internalID: -8594668792435417162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884087aaaaa6a7ad0800000000000000
+      internalID: -2703731345045584760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3a1023a58378d70800000000000000
+      internalID: 9045260336634110908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5069b519db4f37ff0800000000000000
+      internalID: -39418876691507707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1fc64d96c18f290800000000000000
+      internalID: -7856498309086776834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21653945e50d46a0800000000000000
+      internalID: -6463503407872909010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9e3515daea4150800000000000000
+      internalID: 5857752466254109424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81d96a6db2a1db0800000000000000
+      internalID: -4820492250228385541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ec5d4fb6020a80800000000000000
+      internalID: -8502225727815622437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7b93c9200d05f0800000000000000
+      internalID: -788974180344562463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fef0a23ecce70db0800000000000000
+      internalID: -4825628105347367182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df79b0ee5f78dc690800000000000000
+      internalID: -7580253107464202243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb4357125f37ea00800000000000000
+      internalID: 785666281810643938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c0f9346e093c50800000000000000
+      internalID: 6645358548793476168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9c05b9891f4bc0800000000000000
+      internalID: -3796787881611321748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9082c9b710d77ae50800000000000000
+      internalID: 6820557605998176265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae851d11e5bd430800000000000000
+      internalID: 3808741340491606618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6c2ade116216d30800000000000000
+      internalID: 4422858167497705197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90231f9cd2e622f30800000000000000
+      internalID: 4549319716538233353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06498903f9bf1710800000000000000
+      internalID: 1666254840638555658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101f1f6de8440b310800000000000000
+      internalID: 1418709262903931137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6240bdd4ddf200800000000000000
+      internalID: 215562405793655808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8248ac7bd210e0800000000000000
+      internalID: -2300535131187540048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e795c7a49522680800000000000000
+      internalID: -8781358146970354034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953355466b1500db0800000000000000
+      internalID: -4827768956731968679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd07c11927e46c0800000000000000
+      internalID: -4157259438443406432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1f51e0a2c4318d0800000000000000
+      internalID: -2876871993450958365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b6d75cabe2a3df0800000000000000
+      internalID: -199795853752439928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6130bc337cd940800000000000000
+      internalID: 5322255564136344711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544478f3124a83c50800000000000000
+      internalID: 6645241712891872325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcf82bde4e308480800000000000000
+      internalID: -8899044355278832425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f0d23d3e1b69030800000000000000
+      internalID: 3501181352385777504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb08dd58c944d30800000000000000
+      internalID: 4414825633490713435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fadcc13356d64d0800000000000000
+      internalID: -3139742095006388333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789fc0f8297d20190800000000000000
+      internalID: -7997592963791390329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ccf443f6fd1cc20800000000000000
+      internalID: 3225104476885994550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf51d13e561d660800000000000000
+      internalID: 7408814888121138220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ff6fe8fbcef3f0800000000000000
+      internalID: -865029808379136279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922553102d90c540800000000000000
+      internalID: 5026189945234334357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 504
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c57e82b9bfdc00800000000000000
+      internalID: 927664224807010520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 504
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ee7e34c19cac50800000000000000
+      internalID: 6677872619531723724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 504
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944af88f9b743d300800000000000000
+      internalID: 275642866264417353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 504
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ff1d7c91d955c0800000000000000
+      internalID: -4226116305266150474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_83
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 504
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f89da763be7190800000000000000
+      internalID: -7962729833268972796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5255268c7fc087a0800000000000000
+      internalID: -6376868938623135142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05f47642e56d0d0800000000000000
+      internalID: -3398425358359375671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e630a2fbf4d8ae8c0800000000000000
+      internalID: -3969204747924536466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e187924fd82d8b60800000000000000
+      internalID: 7749895473134535145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79ef29a70fc72da0800000000000000
+      internalID: -5969575149246092931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40e54bf72bd1a30800000000000000
+      internalID: 4187699490081080548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613b91c7d5230720800000000000000
+      internalID: 2811132201005691245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e24d6451d8e29f0800000000000000
+      internalID: -491300186814665196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab9b81408593020800000000000000
+      internalID: 2321983857504139999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd454de6217a22050800000000000000
+      internalID: 5774361369853056223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37927a3b14a5afa0800000000000000
+      internalID: -5790041309063243974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ede087310f6ec0800000000000000
+      internalID: -3571634641583611634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceeeb073fbac37f0800000000000000
+      internalID: -631440785681748279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20003f35e8ddbf0e0800000000000000
+      internalID: -2234949186695790590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 312
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a362a662d80c470800000000000000
+      internalID: 8412879300057250364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d597f021c6820d50800000000000000
+      internalID: 6702067359520626130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb28a8bd31ed88d0800000000000000
+      internalID: -2842368134593631310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Tilest_101
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf21007ec3995e10800000000000000
+      internalID: 2186941608916758495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

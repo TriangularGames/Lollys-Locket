@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60dd567f355cb184fac762fe53604146, type: 3}
+  m_Name: Alice's Head
+  m_EditorClassIdentifier: 
+  name: Alice's Head
+  icon: {fileID: 4425971850226754916, guid: 17779f749fc03d7469e5516d8fcfc510, type: 3}
+  description:
+  - Her deep black hair is well kept being tied back by a tiny red ribbon, ignoring
+    the mass amount of dust in her hair of course. She was probably someone's favourite
+    doll at one point, though without having seen the body you can't really be so
+    sure.
+  isDefaultItem: 0
+  Doll: {fileID: 2278822655025677277, guid: 666278bab463d5246a34941a1889fbc6, type: 3}
